@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{5CD61AEA-B7D7-4EEF-944B-471EAA18EE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{93AFC76A-2016-44D6-8E03-C86B5216353F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{7C54964A-9659-418F-AB95-50638C227465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD61AEA-B7D7-4EEF-944B-471EAA18EE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD61AEA-B7D7-4EEF-944B-471EAA18EE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD61AEA-B7D7-4EEF-944B-471EAA18EE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD61AEA-B7D7-4EEF-944B-471EAA18EE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AFC76A-2016-44D6-8E03-C86B5216353F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AFC76A-2016-44D6-8E03-C86B5216353F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AFC76A-2016-44D6-8E03-C86B5216353F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AFC76A-2016-44D6-8E03-C86B5216353F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C54964A-9659-418F-AB95-50638C227465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C54964A-9659-418F-AB95-50638C227465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C54964A-9659-418F-AB95-50638C227465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C54964A-9659-418F-AB95-50638C227465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
